@@ -1,5 +1,5 @@
 # scf<br>
-										<br>
+
 I have difficulty reading the small default font in the Arch iso.		<br>
 Scf is a script to install terminus and/or select/set a console font.		<br>
 										<br>
